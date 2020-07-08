@@ -1,0 +1,45 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+    
+.container img{
+    width:  118.07px;
+}
+.background{
+    background-color: #F0FFF0;
+}
+.background img{
+    width: 100%;
+    background:  #F0FFF0;
+    
+}
+.upper-background{
+    background-color: #F0FFF0;
+}
+.green-highlight{
+    color: #21B573
+}
+.sign-in{
+    background-color:#21B573;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 2px 10px;
+    cursor: pointer;
+}
+.catagories img{
+    width: 100px;
+}
+.bg-3rd{
+    background-color: #F0FFF0;
+    padding-top: 40px;
+    border: none;
+}
+.bg-3rd-dif{
+    background-color: white;
+    padding-top: 40px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 8px 8px 8px lightgray;
+    
+}
