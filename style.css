@@ -1,8 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-    
-.container img{
+.logo img{
     width:  118.07px;
 }
 .background{
@@ -41,5 +40,51 @@ body{
     border: none;
     border-radius: 10px;
     box-shadow: 0px 8px 8px 8px lightgray;
-    
 }
+.course{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 8px 8px 8px lightgray;
+}
+.next{
+    color: #413960;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.card-text{
+    color: gray;
+}
+.man img{
+    height:120px;
+    width: 120px;
+    margin-left: 150px;
+}
+.man-text{
+    margin-top: 20px;
+    padding-right: 70px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.footer-bg{
+    background-color: #282531;
+    color: white;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 100px;
+}
+.ftr{
+    background-color: #282531;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+    font-weight: lighter;
+}
+.exp{
+    text-align: center;
+}
+.special li:nth-child(2n+1){
+    background-image: linear-gradient(45deg,indianred,lawngreen);
+}
+
